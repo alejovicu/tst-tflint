@@ -1,5 +1,5 @@
 # tst-tflint
-just a flint test
+just a tflint test
 
 to init the module:
 `./run-terraform.sh init`
